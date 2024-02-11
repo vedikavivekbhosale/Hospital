@@ -1,0 +1,13 @@
+Run Pgadmin Container
+docker run --name postgresql -e POSTGRES_USER=myusername -e POSTGRES_PASSWORD=mypassword -p 5432:5432 -v /data:/var/lib/postgresql/data -d postgres
+docker start postgresqldb
+docker run --name my-pgadmin -p 82:80 -e 'PGADMIN_DEFAULT_EMAIL=pgadmin@domain.com' -e 'PGADMIN_DEFAULT_PASSWORD=pgadmin'-d dpage/pgadmin4
+docker inspect postgresql
+how create mildeware some scenerio apply 
+dependency injectiom lifeline authecation startup configureb hosting enviroment 
+
+host.docker.internal
+myusername
+mypassword
+
+Update-Database
