@@ -1,0 +1,14 @@
+E:\Projects\Hospital\Doctor\DBContext\bin\Debug\net6.0\DBContext.deps.json
+E:\Projects\Hospital\Doctor\DBContext\bin\Debug\net6.0\DBContext.dll
+E:\Projects\Hospital\Doctor\DBContext\bin\Debug\net6.0\DBContext.pdb
+E:\Projects\Hospital\Doctor\DBContext\obj\Debug\net6.0\DBContext.csproj.AssemblyReference.cache
+E:\Projects\Hospital\Doctor\DBContext\obj\Debug\net6.0\DBContext.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\Hospital\Doctor\DBContext\obj\Debug\net6.0\DBContext.AssemblyInfoInputs.cache
+E:\Projects\Hospital\Doctor\DBContext\obj\Debug\net6.0\DBContext.AssemblyInfo.cs
+E:\Projects\Hospital\Doctor\DBContext\obj\Debug\net6.0\DBContext.csproj.CoreCompileInputs.cache
+E:\Projects\Hospital\Doctor\DBContext\obj\Debug\net6.0\DBContext.dll
+E:\Projects\Hospital\Doctor\DBContext\obj\Debug\net6.0\refint\DBContext.dll
+E:\Projects\Hospital\Doctor\DBContext\obj\Debug\net6.0\DBContext.pdb
+E:\Projects\Hospital\Doctor\DBContext\obj\Debug\net6.0\ref\DBContext.dll
+E:\Projects\Hospital\Doctor\DBContext\bin\Debug\net6.0\DBContext.runtimeconfig.json
+E:\Projects\Hospital\Doctor\DBContext\obj\Debug\net6.0\DBContext.genruntimeconfig.cache

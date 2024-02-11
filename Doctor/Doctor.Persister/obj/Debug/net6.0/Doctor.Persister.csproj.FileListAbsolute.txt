@@ -1,0 +1,12 @@
+E:\Projects\Hospital\Doctor\Doctor.Persister\bin\Debug\net6.0\Doctor.Persister.deps.json
+E:\Projects\Hospital\Doctor\Doctor.Persister\bin\Debug\net6.0\Doctor.Persister.dll
+E:\Projects\Hospital\Doctor\Doctor.Persister\bin\Debug\net6.0\Doctor.Persister.pdb
+E:\Projects\Hospital\Doctor\Doctor.Persister\obj\Debug\net6.0\Doctor.Persister.csproj.AssemblyReference.cache
+E:\Projects\Hospital\Doctor\Doctor.Persister\obj\Debug\net6.0\Doctor.Persister.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\Hospital\Doctor\Doctor.Persister\obj\Debug\net6.0\Doctor.Persister.AssemblyInfoInputs.cache
+E:\Projects\Hospital\Doctor\Doctor.Persister\obj\Debug\net6.0\Doctor.Persister.AssemblyInfo.cs
+E:\Projects\Hospital\Doctor\Doctor.Persister\obj\Debug\net6.0\Doctor.Persister.csproj.CoreCompileInputs.cache
+E:\Projects\Hospital\Doctor\Doctor.Persister\obj\Debug\net6.0\Doctor.Persister.dll
+E:\Projects\Hospital\Doctor\Doctor.Persister\obj\Debug\net6.0\refint\Doctor.Persister.dll
+E:\Projects\Hospital\Doctor\Doctor.Persister\obj\Debug\net6.0\Doctor.Persister.pdb
+E:\Projects\Hospital\Doctor\Doctor.Persister\obj\Debug\net6.0\ref\Doctor.Persister.dll

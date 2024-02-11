@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.2.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\DBContext\DBContext.csproj" />
+    <ProjectReference Include="..\Doctor.DalEF\Doctor.DalEF.csproj" />
+    <ProjectReference Include="..\Doctor.Dal\Doctor.Dal.csproj" />
+    <ProjectReference Include="..\Doctor.Persister\Patient.Persister.csproj" />
+    <ProjectReference Include="..\PatientConsumer\PatientConsumer.csproj" />
+  </ItemGroup>
+
+</Project>

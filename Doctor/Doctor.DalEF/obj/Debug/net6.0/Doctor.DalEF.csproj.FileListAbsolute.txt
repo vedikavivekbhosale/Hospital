@@ -1,0 +1,17 @@
+E:\Projects\Hospital\Doctor\Doctor.DalEF\bin\Debug\net6.0\Doctor.DalEF.deps.json
+E:\Projects\Hospital\Doctor\Doctor.DalEF\bin\Debug\net6.0\Doctor.DalEF.dll
+E:\Projects\Hospital\Doctor\Doctor.DalEF\bin\Debug\net6.0\Doctor.DalEF.pdb
+E:\Projects\Hospital\Doctor\Doctor.DalEF\obj\Debug\net6.0\Doctor.DalEF.csproj.AssemblyReference.cache
+E:\Projects\Hospital\Doctor\Doctor.DalEF\obj\Debug\net6.0\Doctor.DalEF.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\Hospital\Doctor\Doctor.DalEF\obj\Debug\net6.0\Doctor.DalEF.AssemblyInfoInputs.cache
+E:\Projects\Hospital\Doctor\Doctor.DalEF\obj\Debug\net6.0\Doctor.DalEF.AssemblyInfo.cs
+E:\Projects\Hospital\Doctor\Doctor.DalEF\obj\Debug\net6.0\Doctor.DalEF.csproj.CoreCompileInputs.cache
+E:\Projects\Hospital\Doctor\Doctor.DalEF\obj\Debug\net6.0\Doctor.DalEF.dll
+E:\Projects\Hospital\Doctor\Doctor.DalEF\obj\Debug\net6.0\refint\Doctor.DalEF.dll
+E:\Projects\Hospital\Doctor\Doctor.DalEF\obj\Debug\net6.0\Doctor.DalEF.pdb
+E:\Projects\Hospital\Doctor\Doctor.DalEF\obj\Debug\net6.0\ref\Doctor.DalEF.dll
+E:\Projects\Hospital\Doctor\Doctor.DalEF\bin\Debug\net6.0\DBContext.dll
+E:\Projects\Hospital\Doctor\Doctor.DalEF\bin\Debug\net6.0\Doctor.Dal.dll
+E:\Projects\Hospital\Doctor\Doctor.DalEF\bin\Debug\net6.0\DBContext.pdb
+E:\Projects\Hospital\Doctor\Doctor.DalEF\bin\Debug\net6.0\Doctor.Dal.pdb
+E:\Projects\Hospital\Doctor\Doctor.DalEF\obj\Debug\net6.0\Doctor.DalEF.csproj.CopyComplete

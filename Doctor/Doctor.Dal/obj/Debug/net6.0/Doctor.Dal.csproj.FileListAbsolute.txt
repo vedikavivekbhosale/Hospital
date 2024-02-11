@@ -1,0 +1,15 @@
+E:\Projects\Hospital\Doctor\Doctor.Dal\bin\Debug\net6.0\Doctor.Dal.deps.json
+E:\Projects\Hospital\Doctor\Doctor.Dal\bin\Debug\net6.0\Doctor.Dal.dll
+E:\Projects\Hospital\Doctor\Doctor.Dal\bin\Debug\net6.0\Doctor.Dal.pdb
+E:\Projects\Hospital\Doctor\Doctor.Dal\obj\Debug\net6.0\Doctor.Dal.csproj.AssemblyReference.cache
+E:\Projects\Hospital\Doctor\Doctor.Dal\obj\Debug\net6.0\Doctor.Dal.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\Hospital\Doctor\Doctor.Dal\obj\Debug\net6.0\Doctor.Dal.AssemblyInfoInputs.cache
+E:\Projects\Hospital\Doctor\Doctor.Dal\obj\Debug\net6.0\Doctor.Dal.AssemblyInfo.cs
+E:\Projects\Hospital\Doctor\Doctor.Dal\obj\Debug\net6.0\Doctor.Dal.csproj.CoreCompileInputs.cache
+E:\Projects\Hospital\Doctor\Doctor.Dal\obj\Debug\net6.0\Doctor.Dal.dll
+E:\Projects\Hospital\Doctor\Doctor.Dal\obj\Debug\net6.0\refint\Doctor.Dal.dll
+E:\Projects\Hospital\Doctor\Doctor.Dal\obj\Debug\net6.0\Doctor.Dal.pdb
+E:\Projects\Hospital\Doctor\Doctor.Dal\obj\Debug\net6.0\ref\Doctor.Dal.dll
+E:\Projects\Hospital\Doctor\Doctor.Dal\bin\Debug\net6.0\DBContext.dll
+E:\Projects\Hospital\Doctor\Doctor.Dal\bin\Debug\net6.0\DBContext.pdb
+E:\Projects\Hospital\Doctor\Doctor.Dal\obj\Debug\net6.0\Doctor.Dal.csproj.CopyComplete

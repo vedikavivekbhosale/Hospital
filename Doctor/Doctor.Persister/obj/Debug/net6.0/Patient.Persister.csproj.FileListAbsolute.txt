@@ -1,0 +1,17 @@
+E:\Projects\Hospital\Doctor\Doctor.Persister\obj\Debug\net6.0\Patient.Persister.csproj.AssemblyReference.cache
+E:\Projects\Hospital\Doctor\Doctor.Persister\obj\Debug\net6.0\Patient.Persister.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\Hospital\Doctor\Doctor.Persister\obj\Debug\net6.0\Patient.Persister.AssemblyInfoInputs.cache
+E:\Projects\Hospital\Doctor\Doctor.Persister\obj\Debug\net6.0\Patient.Persister.AssemblyInfo.cs
+E:\Projects\Hospital\Doctor\Doctor.Persister\obj\Debug\net6.0\Patient.Persister.csproj.CoreCompileInputs.cache
+E:\Projects\Hospital\Doctor\Doctor.Persister\bin\Debug\net6.0\Patient.Persister.deps.json
+E:\Projects\Hospital\Doctor\Doctor.Persister\bin\Debug\net6.0\Patient.Persister.dll
+E:\Projects\Hospital\Doctor\Doctor.Persister\bin\Debug\net6.0\Patient.Persister.pdb
+E:\Projects\Hospital\Doctor\Doctor.Persister\bin\Debug\net6.0\DBContext.dll
+E:\Projects\Hospital\Doctor\Doctor.Persister\bin\Debug\net6.0\Doctor.Dal.dll
+E:\Projects\Hospital\Doctor\Doctor.Persister\bin\Debug\net6.0\DBContext.pdb
+E:\Projects\Hospital\Doctor\Doctor.Persister\bin\Debug\net6.0\Doctor.Dal.pdb
+E:\Projects\Hospital\Doctor\Doctor.Persister\obj\Debug\net6.0\Patient.Persister.csproj.CopyComplete
+E:\Projects\Hospital\Doctor\Doctor.Persister\obj\Debug\net6.0\Patient.Persister.dll
+E:\Projects\Hospital\Doctor\Doctor.Persister\obj\Debug\net6.0\refint\Patient.Persister.dll
+E:\Projects\Hospital\Doctor\Doctor.Persister\obj\Debug\net6.0\Patient.Persister.pdb
+E:\Projects\Hospital\Doctor\Doctor.Persister\obj\Debug\net6.0\ref\Patient.Persister.dll
