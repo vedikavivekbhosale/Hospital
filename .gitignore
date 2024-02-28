@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Patient/.vs/PatientAPI/FileContentIndex
+/Patient/DBContext/obj/Debug/net6.0/DBContext.assets.cache
+/Patient/.vs/PatientAPI/v17/.suo
+/Patient/DBContext/obj/Debug/net6.0/DBContext.GeneratedMSBuildEditorConfig.editorconfig
+/Patient/PatientAPI/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+*.dll
